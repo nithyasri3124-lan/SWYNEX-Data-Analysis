@@ -1,0 +1,10 @@
+check,status,exception_count,area
+Order IDs unique,PASS,0,Order Book
+Trade IDs unique,PASS,0,Execution Book
+Execution order_id exists in Order Book,PASS,0,Execution Book → Order Book
+Order client_id exists in Client Master,PASS,0,Order Book → Client Master
+Execution client_id exists in Client Master,PASS,0,Execution Book → Client Master
+Holdings client_id exists in Client Master,PASS,0,Holdings → Client Master
+Positions client_id exists in Client Master,PASS,0,Positions → Client Master
+Portfolio client_id unique,PASS,0,Portfolio
+All clients mapped to portfolio,PASS,0,Client Master → Portfolio

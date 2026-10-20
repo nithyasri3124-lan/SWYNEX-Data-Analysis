@@ -1,0 +1,18 @@
+requirement,coverage_status,notes
+Part 1 Data Quality,Available,"Order, trade, client, holdings, positions and dataset-level checks included; complete rule-by-rule validation still needs to be run on all fields."
+Part 2 Order-to-trade reconciliation,Mostly available,"Orders, executions, positions, holdings and new portfolio master exist. Portfolio master maps client to portfolio; no separate portfolio valuation snapshot is included."
+Part 3 Trading performance,Available with gaps,"Orders, executions, clients, products, sectors, dates and charges support most metrics. Sector comes from enriched instrument master/sector_mapping. Average order value definition should be documented."
+Part 4 Execution quality,Available,3b_trade_quotes.csv has spread and slippage fields; execution timestamps support delay. Tick market data with quotes is also included.
+Part 5 Portfolio intelligence,Partial,Holdings and positions support latest valuation and P&L fields; transaction ledger/dividends support additional P&L. Daily/MTD/YTD portfolio P&L requires dated snapshots/valuation logic and should not be assumed complete.
+Part 6 Portfolio risk,Partial,"Historical OHLCV, benchmark index and risk-free-rate datasets support return volatility, beta and Sharpe proxies. Portfolio-level drawdown and concentration require a dated portfolio value series; only holdings history/positions history provide snapshots."
+Part 7 Market anomaly engine,Available,"Historical OHLCV supports return, volume, turnover (close × volume), volatility, range and moving-average features. Thresholds must be configurable. Turnover Z-score can be missing for initial rolling-window rows."
+Part 8 Client behavior,Mostly available,"Client, orders, executions, products, sectors and holdings history support frequency, size, buy/sell and preferences. Holding period is approximate unless position-lot linkage is available."
+Part 9 Loss & profit attribution,Partial,Brokerage charges and transaction ledger support charges/net cash-flow analysis; taxes and other charges are itemized in brokerage file. Gross realized P&L needs a consistent lot/accounting method.
+Part 10 Corporate action reconciliation,Partial,Corporate actions and dividends exist. Need corporate-action-adjusted positions/transaction history around each event to prove before/after quantity and value reconciliation.
+Part 11 Forecasting,Available with caveats,Historical OHLCV and order/execution/charges date history support time series. Forecast quality depends on daily aggregation and limited recent trading history.
+Part 12 Executive dashboard,Available to build,"Datasets cover most Market, Trading, Portfolio, Client and Operations sections. AUM and settlement issues depend on clear valuation/cash-ledger definitions."
+Part 13 Exception matrix,Available to build,"Order rejection, settlement cash ledger, reconciliation outputs and data quality checks support drill-through exceptions; thresholds must be configured."
+Final deliverables: cleaned datasets,Partial,"Files are included, but some source columns intentionally contain nulls (e.g. transaction ledger, quote sizes, holdings history); inspect before modeling."
+Final deliverables: data model,Available to design,"Use client_id, order_id, trade_id, symbol, dates, and portfolio_id relationships; avoid many-to-many fact-table joins."
+Final deliverables: 30-day forecast,Not yet generated,Requires modeling and backtesting; datasets alone are inputs.
+Final deliverables: interactive dashboard and presentation,Not yet generated,"These are build deliverables, not raw datasets."

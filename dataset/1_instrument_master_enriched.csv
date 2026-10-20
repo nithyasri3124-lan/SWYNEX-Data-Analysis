@@ -1,0 +1,21 @@
+symbol,company_name,exchange,series,isin,face_value,lot_size,tick_size,instrument_token,sector,industry
+RELIANCE,Reliance Industries Ltd,NSE,EQ,INE3SNEEV2P6,1,1,0.05,100000,Energy,Oil & Gas - Refining & Marketing
+TCS,Tata Consultancy Services Ltd,NSE,EQ,INE3HZRRQSH4,1,1,0.05,100001,Information Technology,IT Services
+HDFCBANK,HDFC Bank Ltd,NSE,EQ,INEUFHC6XSMD,1,1,0.05,100002,Financials,Private Sector Bank
+INFY,Infosys Ltd,NSE,EQ,INETJFF73JW2,5,1,0.05,100003,Information Technology,IT Services
+ICICIBANK,ICICI Bank Ltd,NSE,EQ,INEVU9M5RPC2,2,1,0.05,100004,Financials,Private Sector Bank
+SBIN,State Bank of India,NSE,EQ,INEZFWPSR6CF,1,1,0.05,100005,Financials,Public Sector Bank
+ITC,ITC Ltd,NSE,EQ,INEG1J5RPXRC,1,1,0.05,100006,Consumer Staples,FMCG - Tobacco & Diversified
+LT,Larsen & Toubro Ltd,NSE,EQ,INEYDBWC2FT6,2,1,0.05,100007,Industrials,Construction & Engineering
+BHARTIARTL,Bharti Airtel Ltd,NSE,EQ,INEF4PGB7KNX,5,1,0.05,100008,Communication Services,Telecom Services
+AXISBANK,Axis Bank Ltd,NSE,EQ,INEE5UMP3ASU,2,1,0.05,100009,Financials,Private Sector Bank
+KOTAKBANK,Kotak Mahindra Bank Ltd,NSE,EQ,INEETUDW98PM,5,1,0.05,100010,Financials,Private Sector Bank
+HINDUNILVR,Hindustan Unilever Ltd,NSE,EQ,INE4U6T0TSSN,1,1,0.05,100011,Consumer Staples,FMCG - Household & Personal Products
+MARUTI,Maruti Suzuki India Ltd,NSE,EQ,INEGP9SJFHK1,5,1,0.05,100012,Consumer Discretionary,Automobiles - Passenger Vehicles
+SUNPHARMA,Sun Pharmaceutical Industries Ltd,NSE,EQ,INE483ENNGVK,1,1,0.05,100013,Health Care,Pharmaceuticals
+TITAN,Titan Company Ltd,NSE,EQ,INE2SKMKJ3KT,1,1,0.05,100014,Consumer Discretionary,Jewellery & Watches
+WIPRO,Wipro Ltd,NSE,EQ,INEAL1BEZ79D,2,1,0.05,100015,Information Technology,IT Services
+ONGC,Oil & Natural Gas Corporation Ltd,NSE,EQ,INEZV17T1V9X,5,1,0.05,100016,Energy,Oil & Gas - Exploration & Production
+NTPC,NTPC Ltd,NSE,EQ,INE9EN4JHSZN,10,1,0.05,100017,Utilities,Power Generation
+TATAMOTORS,Tata Motors Ltd,NSE,EQ,INEDDETA5B03,2,1,0.05,100018,Consumer Discretionary,Automobiles - Commercial & Passenger
+ASIANPAINT,Asian Paints Ltd,NSE,EQ,INE3SQPFQ5WH,1,1,0.05,100019,Materials,Paints

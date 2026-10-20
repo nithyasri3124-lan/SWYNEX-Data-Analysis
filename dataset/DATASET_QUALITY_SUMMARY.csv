@@ -1,0 +1,24 @@
+dataset,rows,columns,duplicate_rows,missing_cells,columns_with_missing
+10_brokerage_charges.csv,7977,13,0,0,
+11_corporate_actions.csv,37,5,0,0,
+12_dividends.csv,28,5,0,0,
+13_benchmark_index.csv,1250,7,0,0,
+14_order_rejections.csv,280,11,0,0,
+15_transaction_ledger.csv,9490,15,0,4539,order_id; price; trade_value
+16_settlement_cash_ledger.csv,7977,14,0,7954,failure_reason
+17_risk_free_rate.csv,250,5,0,0,
+1_instrument_master.csv,20,9,0,0,
+1_instrument_master_enriched.csv,20,11,0,0,
+2_historical_ohlcv.csv,5000,8,0,0,
+3b_trade_quotes.csv,7977,17,0,12062,bid_qty; ask_qty
+3_tick_market_data.csv,37500,7,0,0,
+3_tick_market_data_with_quotes.csv,37500,15,0,0,
+4_order_book.csv,5000,15,0,0,
+5_trade_execution_book.csv,7977,13,0,0,
+6_client_master.csv,200,10,0,0,
+7b_holdings_history.csv,30536,10,0,11688,avg_cost; invested_value; unrealised_pnl
+7_holdings.csv,1506,10,0,0,
+8b_positions_history.csv,4147,13,0,4114,buy_avg; sell_avg
+8_positions.csv,215,14,0,212,buy_avg; sell_avg
+9_funds_margin.csv,4000,11,0,0,
+sector_mapping.csv,20,3,0,0,

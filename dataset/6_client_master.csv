@@ -1,0 +1,201 @@
+client_id,client_name,city,state,segment,risk_profile,brokerage_plan,kyc_status,account_open_date,dp_id
+C100000,Vivaan Das,Coimbatore,Tamil Nadu,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2024-03-15,DP10581393
+C100001,Nithya Singh,Pune,Maharashtra,Equity,Aggressive,Delivery-Free,VERIFIED,2026-08-18,DP60977858
+C100002,Ananya Chandran,Bengaluru,Karnataka,Equity,Aggressive,Delivery-Free,VERIFIED,2026-06-01,DP77132450
+C100003,Vivaan Menon,Coimbatore,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2024-05-28,DP59581789
+C100004,Karthik Sharma,Hyderabad,Telangana,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2023-08-10,DP44555950
+C100005,Meera Krishnan,Hyderabad,Telangana,Equity,Aggressive,Flat-20,VERIFIED,2021-04-15,DP84569223
+C100006,Lakshmi Das,Mumbai,Maharashtra,Equity,Moderate,Flat-20,VERIFIED,2025-10-09,DP43393110
+C100007,Lakshmi Das,Madurai,Tamil Nadu,Equity,Aggressive,Flat-20,VERIFIED,2021-01-02,DP73947949
+C100008,Meera Sharma,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2025-02-03,DP51772753
+C100009,Suresh Singh,Chennai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2025-09-29,DP12391998
+C100010,Meera Patel,Madurai,Tamil Nadu,Equity,Conservative,Pro,VERIFIED,2021-12-12,DP57746491
+C100011,Ishaan Raj,Bengaluru,Karnataka,Equity,Aggressive,Flat-20,VERIFIED,2021-06-11,DP14451322
+C100012,Divya Gupta,Bengaluru,Karnataka,Equity,Conservative,Flat-20,VERIFIED,2022-08-03,DP93786252
+C100013,Ananya Chandran,Madurai,Tamil Nadu,Equity,Conservative,Pro,PENDING,2025-11-24,DP64140260
+C100014,Meera Singh,Chennai,Tamil Nadu,Equity,Moderate,Flat-20,PENDING,2025-11-25,DP43482904
+C100015,Diya Iyer,Pune,Maharashtra,Equity,Conservative,Delivery-Free,VERIFIED,2024-01-16,DP53757286
+C100016,Vivaan Pillai,Coimbatore,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2023-08-20,DP65726183
+C100017,Ramesh Kumar,Madurai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2019-12-05,DP33416618
+C100018,Ramesh Chandran,Bengaluru,Karnataka,Equity,Conservative,Flat-20,VERIFIED,2024-09-28,DP35955446
+C100019,Arjun Gupta,Hyderabad,Telangana,Equity+Derivatives,Aggressive,Pro,VERIFIED,2025-05-18,DP47679047
+C100020,Ishaan Das,Coimbatore,Tamil Nadu,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2020-04-13,DP33271496
+C100021,Lakshmi Patel,Pune,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2025-08-21,DP78211928
+C100022,Vivaan Krishnan,Pune,Maharashtra,Equity,Conservative,Delivery-Free,VERIFIED,2026-07-02,DP19343388
+C100023,Ananya Raj,Delhi,Delhi,Equity,Moderate,Pro,VERIFIED,2023-10-27,DP84395033
+C100024,Nithya Das,Mumbai,Maharashtra,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2023-12-20,DP41367476
+C100025,Divya Reddy,Madurai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2022-06-28,DP60510076
+C100026,Siddharth Rao,Kochi,Kerala,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2020-09-28,DP24198008
+C100027,Diya Kumar,Kochi,Kerala,Equity,Aggressive,Delivery-Free,VERIFIED,2020-05-15,DP44683253
+C100028,Meera Reddy,Chennai,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2024-09-20,DP77913729
+C100029,Lakshmi Menon,Pune,Maharashtra,Equity,Moderate,Flat-20,VERIFIED,2020-01-18,DP34362708
+C100030,Vikram Das,Chennai,Tamil Nadu,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2022-05-27,DP21904828
+C100031,Siddharth Krishnan,Pune,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2026-03-17,DP56972662
+C100032,Ananya Nair,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2020-05-02,DP24624186
+C100033,Vikram Patel,Madurai,Tamil Nadu,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2025-09-30,DP38327465
+C100034,Vivaan Rao,Mumbai,Maharashtra,Equity,Conservative,Delivery-Free,VERIFIED,2022-09-13,DP50541474
+C100035,Divya Reddy,Madurai,Tamil Nadu,Equity,Conservative,Flat-20,VERIFIED,2021-05-01,DP60768562
+C100036,Diya Sharma,Delhi,Delhi,Equity,Moderate,Delivery-Free,VERIFIED,2024-12-28,DP67543896
+C100037,Nithya Rao,Coimbatore,Tamil Nadu,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2024-11-06,DP70898714
+C100038,Rohan Iyer,Chennai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2023-06-17,DP85985835
+C100039,Priya Menon,Mumbai,Maharashtra,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2020-09-11,DP15947128
+C100040,Vikram Singh,Coimbatore,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2025-03-02,DP42609134
+C100041,Ishaan Chandran,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2022-03-12,DP10096071
+C100042,Kavya Menon,Madurai,Tamil Nadu,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2023-08-15,DP10849840
+C100043,Vivaan Nair,Hyderabad,Telangana,Equity,Aggressive,Delivery-Free,VERIFIED,2025-12-03,DP29104942
+C100044,Divya Chandran,Hyderabad,Telangana,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2021-11-15,DP63832888
+C100045,Ananya Chandran,Delhi,Delhi,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2021-01-18,DP90506034
+C100046,Suresh Patel,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2022-10-15,DP79618713
+C100047,Ramesh Nair,Coimbatore,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2025-06-27,DP68166168
+C100048,Karthik Menon,Hyderabad,Telangana,Equity,Aggressive,Flat-20,VERIFIED,2025-08-17,DP80034744
+C100049,Kavya Reddy,Bengaluru,Karnataka,Equity,Moderate,Flat-20,VERIFIED,2023-10-25,DP25476431
+C100050,Suresh Reddy,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2023-04-04,DP85585171
+C100051,Suresh Kumar,Coimbatore,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2022-12-12,DP90123756
+C100052,Divya Das,Hyderabad,Telangana,Equity,Conservative,Delivery-Free,VERIFIED,2025-01-12,DP18554898
+C100053,Divya Gupta,Chennai,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2023-04-18,DP52296034
+C100054,Diya Menon,Delhi,Delhi,Equity,Conservative,Flat-20,VERIFIED,2024-09-07,DP84703353
+C100055,Arjun Das,Hyderabad,Telangana,Equity,Conservative,Delivery-Free,VERIFIED,2022-01-15,DP52848258
+C100056,Priya Singh,Madurai,Tamil Nadu,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2021-04-17,DP85642537
+C100057,Meera Pillai,Delhi,Delhi,Equity+Derivatives,Moderate,Pro,VERIFIED,2022-04-07,DP94198774
+C100058,Aarav Reddy,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2026-09-02,DP52719792
+C100059,Karthik Sharma,Chennai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2019-12-21,DP15353802
+C100060,Ananya Menon,Pune,Maharashtra,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2026-07-09,DP40604739
+C100061,Nithya Rao,Madurai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2019-12-03,DP29366044
+C100062,Ramesh Pillai,Pune,Maharashtra,Equity,Aggressive,Delivery-Free,VERIFIED,2026-06-19,DP52670356
+C100063,Vivaan Das,Mumbai,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2023-03-10,DP62719419
+C100064,Priya Gupta,Chennai,Tamil Nadu,Equity,Moderate,Pro,VERIFIED,2025-12-18,DP51750856
+C100065,Priya Pillai,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2026-01-13,DP27593785
+C100066,Vivaan Pillai,Madurai,Tamil Nadu,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2022-01-22,DP37104847
+C100067,Divya Nair,Delhi,Delhi,Equity,Conservative,Delivery-Free,VERIFIED,2021-10-04,DP71157430
+C100068,Kavya Kumar,Madurai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2025-11-17,DP12428476
+C100069,Rohan Singh,Coimbatore,Tamil Nadu,Equity+Derivatives,Moderate,Flat-20,VERIFIED,2020-01-28,DP29268306
+C100070,Harini Iyer,Pune,Maharashtra,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2024-07-06,DP90310731
+C100071,Arjun Singh,Kochi,Kerala,Equity,Aggressive,Flat-20,VERIFIED,2024-07-11,DP18924127
+C100072,Harini Chandran,Mumbai,Maharashtra,Equity,Moderate,Flat-20,VERIFIED,2024-09-02,DP47327132
+C100073,Aarav Iyer,Hyderabad,Telangana,Equity,Aggressive,Flat-20,VERIFIED,2023-07-24,DP28628664
+C100074,Suresh Kumar,Delhi,Delhi,Equity,Aggressive,Delivery-Free,VERIFIED,2025-06-23,DP19418573
+C100075,Ramesh Nair,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2023-10-22,DP48046063
+C100076,Vikram Nair,Kochi,Kerala,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2025-04-05,DP56929786
+C100077,Ananya Gupta,Chennai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2026-05-01,DP25852446
+C100078,Aditya Pillai,Delhi,Delhi,Equity,Aggressive,Flat-20,VERIFIED,2024-03-09,DP17001463
+C100079,Meera Das,Chennai,Tamil Nadu,Equity+Derivatives,Moderate,Flat-20,VERIFIED,2022-02-18,DP22122282
+C100080,Harini Gupta,Bengaluru,Karnataka,Equity,Moderate,Delivery-Free,PENDING,2021-07-09,DP68638985
+C100081,Ananya Singh,Kochi,Kerala,Equity+Derivatives,Moderate,Pro,VERIFIED,2024-04-16,DP87425369
+C100082,Ananya Chandran,Bengaluru,Karnataka,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2024-06-28,DP26226202
+C100083,Rohan Reddy,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2021-05-09,DP38835748
+C100084,Rohan Kumar,Hyderabad,Telangana,Equity,Aggressive,Pro,VERIFIED,2022-01-27,DP40943396
+C100085,Aditya Sharma,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2021-01-19,DP42468281
+C100086,Divya Menon,Mumbai,Maharashtra,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2020-07-20,DP31987042
+C100087,Nithya Singh,Hyderabad,Telangana,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2021-02-15,DP14974336
+C100088,Lakshmi Reddy,Pune,Maharashtra,Equity,Conservative,Flat-20,VERIFIED,2020-05-06,DP57264014
+C100089,Vikram Rao,Delhi,Delhi,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2023-11-11,DP42163266
+C100090,Vikram Reddy,Coimbatore,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2024-01-05,DP40803201
+C100091,Diya Menon,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2024-07-03,DP33832645
+C100092,Diya Singh,Pune,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2025-02-02,DP93640558
+C100093,Ishaan Patel,Delhi,Delhi,Equity,Moderate,Delivery-Free,VERIFIED,2021-08-13,DP64943656
+C100094,Karthik Nair,Bengaluru,Karnataka,Equity,Conservative,Delivery-Free,VERIFIED,2021-11-06,DP47682263
+C100095,Nithya Gupta,Mumbai,Maharashtra,Equity,Conservative,Delivery-Free,VERIFIED,2021-04-05,DP28485126
+C100096,Kavya Patel,Madurai,Tamil Nadu,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2025-07-19,DP82101123
+C100097,Harini Sharma,Mumbai,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2023-05-11,DP89952890
+C100098,Rohan Sharma,Coimbatore,Tamil Nadu,Equity,Aggressive,Flat-20,PENDING,2025-03-06,DP12908692
+C100099,Rohan Krishnan,Mumbai,Maharashtra,Equity,Moderate,Flat-20,VERIFIED,2020-08-22,DP93669995
+C100100,Siddharth Raj,Madurai,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2024-11-14,DP72947808
+C100101,Diya Menon,Delhi,Delhi,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2025-09-15,DP18984795
+C100102,Diya Iyer,Coimbatore,Tamil Nadu,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2022-10-29,DP77784107
+C100103,Divya Krishnan,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2020-09-25,DP19666266
+C100104,Arjun Das,Bengaluru,Karnataka,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2020-06-27,DP14577563
+C100105,Arjun Menon,Hyderabad,Telangana,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2026-01-11,DP20379379
+C100106,Divya Singh,Hyderabad,Telangana,Equity,Aggressive,Flat-20,VERIFIED,2024-06-23,DP51384885
+C100107,Lakshmi Nair,Bengaluru,Karnataka,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2025-08-22,DP65761233
+C100108,Vivaan Sharma,Bengaluru,Karnataka,Equity,Moderate,Flat-20,VERIFIED,2024-08-06,DP46659238
+C100109,Ananya Raj,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Pro,VERIFIED,2023-01-26,DP20977206
+C100110,Aditya Singh,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2024-10-12,DP27925162
+C100111,Lakshmi Iyer,Pune,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2026-03-23,DP86714408
+C100112,Lakshmi Nair,Kochi,Kerala,Equity,Aggressive,Pro,VERIFIED,2023-03-26,DP96636141
+C100113,Suresh Pillai,Kochi,Kerala,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2026-04-28,DP77884436
+C100114,Meera Reddy,Coimbatore,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2025-02-23,DP19307248
+C100115,Diya Chandran,Chennai,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2026-09-04,DP83782797
+C100116,Aarav Das,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2026-02-03,DP72278998
+C100117,Diya Menon,Chennai,Tamil Nadu,Equity+Derivatives,Moderate,Flat-20,VERIFIED,2023-09-24,DP57345447
+C100118,Nithya Singh,Hyderabad,Telangana,Equity,Conservative,Flat-20,VERIFIED,2020-12-04,DP22891469
+C100119,Rohan Gupta,Delhi,Delhi,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2021-06-10,DP99700949
+C100120,Aditya Pillai,Mumbai,Maharashtra,Equity,Aggressive,Delivery-Free,VERIFIED,2026-01-04,DP49834579
+C100121,Vivaan Gupta,Madurai,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2026-06-11,DP13975759
+C100122,Kavya Sharma,Madurai,Tamil Nadu,Equity,Aggressive,Delivery-Free,PENDING,2024-05-23,DP28897165
+C100123,Divya Singh,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2022-04-08,DP46113846
+C100124,Divya Kumar,Bengaluru,Karnataka,Equity,Aggressive,Flat-20,VERIFIED,2021-08-18,DP15609412
+C100125,Ishaan Rao,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2021-02-10,DP39154300
+C100126,Ishaan Nair,Coimbatore,Tamil Nadu,Equity,Aggressive,Flat-20,VERIFIED,2024-05-13,DP52156328
+C100127,Nithya Reddy,Madurai,Tamil Nadu,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2025-07-18,DP95378094
+C100128,Nithya Sharma,Coimbatore,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2026-07-02,DP17773750
+C100129,Ishaan Pillai,Coimbatore,Tamil Nadu,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2025-09-08,DP61917486
+C100130,Divya Reddy,Delhi,Delhi,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2026-03-29,DP82557186
+C100131,Arjun Raj,Madurai,Tamil Nadu,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2020-11-09,DP93244735
+C100132,Harini Pillai,Madurai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2024-11-12,DP25330707
+C100133,Ananya Patel,Bengaluru,Karnataka,Equity+Derivatives,Moderate,Flat-20,VERIFIED,2021-02-10,DP82120884
+C100134,Kavya Pillai,Delhi,Delhi,Equity,Conservative,Flat-20,VERIFIED,2022-12-09,DP98077072
+C100135,Arjun Kumar,Madurai,Tamil Nadu,Equity,Conservative,Flat-20,VERIFIED,2023-01-13,DP39342944
+C100136,Ishaan Krishnan,Hyderabad,Telangana,Equity,Moderate,Flat-20,VERIFIED,2023-08-09,DP54877559
+C100137,Ananya Rao,Madurai,Tamil Nadu,Equity,Moderate,Pro,VERIFIED,2021-02-20,DP57775721
+C100138,Diya Das,Hyderabad,Telangana,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2026-05-21,DP54430486
+C100139,Vivaan Sharma,Chennai,Tamil Nadu,Equity,Aggressive,Flat-20,VERIFIED,2026-01-19,DP36080362
+C100140,Arjun Rao,Pune,Maharashtra,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2023-10-26,DP97379625
+C100141,Nithya Rao,Chennai,Tamil Nadu,Equity,Aggressive,Flat-20,VERIFIED,2024-01-05,DP96084708
+C100142,Ananya Krishnan,Madurai,Tamil Nadu,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2022-12-28,DP44265912
+C100143,Ishaan Pillai,Madurai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2021-09-09,DP82476284
+C100144,Meera Rao,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2022-09-15,DP45777252
+C100145,Suresh Nair,Chennai,Tamil Nadu,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2024-12-09,DP81532954
+C100146,Harini Nair,Mumbai,Maharashtra,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2024-06-19,DP62627743
+C100147,Meera Rao,Delhi,Delhi,Equity,Moderate,Flat-20,VERIFIED,2021-08-04,DP52315271
+C100148,Suresh Singh,Hyderabad,Telangana,Equity,Moderate,Delivery-Free,VERIFIED,2025-04-26,DP21524734
+C100149,Arjun Kumar,Pune,Maharashtra,Equity,Conservative,Pro,VERIFIED,2023-04-09,DP68913177
+C100150,Siddharth Chandran,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2023-01-14,DP38897706
+C100151,Aarav Raj,Mumbai,Maharashtra,Equity+Derivatives,Aggressive,Delivery-Free,VERIFIED,2021-08-09,DP29517277
+C100152,Meera Reddy,Kochi,Kerala,Equity+Derivatives,Moderate,Flat-20,VERIFIED,2021-11-06,DP27388749
+C100153,Rohan Pillai,Bengaluru,Karnataka,Equity,Conservative,Pro,VERIFIED,2023-07-16,DP98368984
+C100154,Rohan Sharma,Coimbatore,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2024-08-03,DP19295513
+C100155,Nithya Menon,Hyderabad,Telangana,Equity,Moderate,Delivery-Free,VERIFIED,2024-03-11,DP81867325
+C100156,Aditya Nair,Pune,Maharashtra,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2023-11-24,DP87953014
+C100157,Karthik Gupta,Kochi,Kerala,Equity,Conservative,Flat-20,VERIFIED,2025-03-13,DP12794762
+C100158,Lakshmi Menon,Kochi,Kerala,Equity+Derivatives,Moderate,Delivery-Free,VERIFIED,2022-06-14,DP63039804
+C100159,Vikram Das,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2025-04-09,DP61966430
+C100160,Rohan Sharma,Hyderabad,Telangana,Equity,Conservative,Flat-20,VERIFIED,2022-04-17,DP42280551
+C100161,Kavya Raj,Chennai,Tamil Nadu,Equity,Aggressive,Flat-20,VERIFIED,2021-08-06,DP70004286
+C100162,Harini Iyer,Hyderabad,Telangana,Equity+Derivatives,Conservative,Flat-20,VERIFIED,2020-03-05,DP46780243
+C100163,Karthik Kumar,Madurai,Tamil Nadu,Equity,Conservative,Flat-20,VERIFIED,2025-11-16,DP49572243
+C100164,Aditya Pillai,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2021-07-17,DP48836710
+C100165,Meera Patel,Bengaluru,Karnataka,Equity,Moderate,Pro,PENDING,2026-02-05,DP82060689
+C100166,Rohan Chandran,Bengaluru,Karnataka,Equity,Aggressive,Flat-20,VERIFIED,2024-05-25,DP66983426
+C100167,Diya Chandran,Bengaluru,Karnataka,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2025-06-27,DP44114228
+C100168,Harini Nair,Delhi,Delhi,Equity,Conservative,Delivery-Free,VERIFIED,2025-08-01,DP93409245
+C100169,Karthik Krishnan,Delhi,Delhi,Equity,Moderate,Delivery-Free,VERIFIED,2025-06-29,DP82185298
+C100170,Kavya Nair,Coimbatore,Tamil Nadu,Equity,Conservative,Flat-20,VERIFIED,2026-05-20,DP93950165
+C100171,Kavya Rao,Mumbai,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2021-02-10,DP75745080
+C100172,Vikram Iyer,Bengaluru,Karnataka,Equity,Aggressive,Pro,VERIFIED,2026-04-08,DP45234278
+C100173,Harini Krishnan,Chennai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2023-12-26,DP79564753
+C100174,Ishaan Reddy,Chennai,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2021-12-14,DP39633621
+C100175,Meera Kumar,Mumbai,Maharashtra,Equity,Moderate,Flat-20,VERIFIED,2019-12-25,DP34383589
+C100176,Arjun Singh,Coimbatore,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2020-11-27,DP97237340
+C100177,Harini Krishnan,Hyderabad,Telangana,Equity,Moderate,Delivery-Free,VERIFIED,2025-10-02,DP61114080
+C100178,Ishaan Raj,Coimbatore,Tamil Nadu,Equity,Conservative,Flat-20,VERIFIED,2020-01-01,DP44532375
+C100179,Vivaan Das,Chennai,Tamil Nadu,Equity,Moderate,Flat-20,VERIFIED,2022-04-05,DP51563612
+C100180,Suresh Raj,Chennai,Tamil Nadu,Equity,Conservative,Delivery-Free,VERIFIED,2025-06-19,DP36209464
+C100181,Karthik Raj,Kochi,Kerala,Equity,Conservative,Flat-20,VERIFIED,2023-08-24,DP69287806
+C100182,Aditya Rao,Chennai,Tamil Nadu,Equity,Conservative,Pro,VERIFIED,2020-06-21,DP41538226
+C100183,Diya Nair,Chennai,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2024-01-09,DP59895912
+C100184,Aarav Das,Mumbai,Maharashtra,Equity,Moderate,Delivery-Free,PENDING,2025-06-09,DP43283634
+C100185,Rohan Gupta,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2020-10-05,DP38864399
+C100186,Ananya Patel,Pune,Maharashtra,Equity,Moderate,Delivery-Free,VERIFIED,2020-03-27,DP97321214
+C100187,Ramesh Sharma,Chennai,Tamil Nadu,Equity,Aggressive,Delivery-Free,VERIFIED,2020-01-31,DP41115772
+C100188,Lakshmi Das,Kochi,Kerala,Equity,Aggressive,Delivery-Free,VERIFIED,2020-03-20,DP16346832
+C100189,Siddharth Iyer,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2020-10-11,DP44073350
+C100190,Aarav Krishnan,Kochi,Kerala,Equity+Derivatives,Conservative,Delivery-Free,VERIFIED,2023-08-10,DP57892960
+C100191,Vikram Iyer,Coimbatore,Tamil Nadu,Equity,Aggressive,Pro,VERIFIED,2025-05-19,DP18517579
+C100192,Aarav Sharma,Bengaluru,Karnataka,Equity,Conservative,Delivery-Free,VERIFIED,2022-07-04,DP37511597
+C100193,Vivaan Chandran,Coimbatore,Tamil Nadu,Equity,Moderate,Delivery-Free,VERIFIED,2025-03-09,DP24945636
+C100194,Ramesh Reddy,Bengaluru,Karnataka,Equity+Derivatives,Aggressive,Flat-20,VERIFIED,2023-06-25,DP55058345
+C100195,Lakshmi Reddy,Kochi,Kerala,Equity,Moderate,Flat-20,VERIFIED,2022-03-30,DP75080242
+C100196,Siddharth Pillai,Delhi,Delhi,Equity,Moderate,Delivery-Free,VERIFIED,2020-04-11,DP97163221
+C100197,Lakshmi Raj,Kochi,Kerala,Equity,Moderate,Delivery-Free,VERIFIED,2024-09-21,DP45018704
+C100198,Aarav Reddy,Delhi,Delhi,Equity,Moderate,Delivery-Free,VERIFIED,2024-12-22,DP87693275
+C100199,Arjun Nair,Delhi,Delhi,Equity,Conservative,Flat-20,VERIFIED,2021-09-17,DP29308507
